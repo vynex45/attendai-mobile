@@ -1,0 +1,6 @@
+{
+  "name": "AttendAI",
+  "description": "AI-Powered Attendance Tracker for Students - Never lose attendance. Track smarter, predict eligibility, and stay ahead.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
